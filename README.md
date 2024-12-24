@@ -9,4 +9,4 @@ This experiment explores: How much worse is it really to use cloning instead of 
 1. Run `cargo bench`.
 2. See output at `target/criterion/report/index.html`.
 
-You can also check out my results running this experiment on an M1 macbook at [my_results/criterion/report/index.html](my_results/criterion/report/index.html).
+You can also check out my results running this experiment on an M1 macbook [HERE](https://html-preview.github.io/?url=https://github.com/ashih42/cloning_vs_copying/blob/main/my_results/criterion/report/index.html).
